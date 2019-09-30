@@ -96,6 +96,7 @@ def adding_matz
   :known_for => "Ruby", 
   :languages => ["LISP", "C"] # May need a comma here?
 }
+programmer_hash
 end
 
 
