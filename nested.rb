@@ -92,7 +92,7 @@ programmer_hash[:yukihiro_matsumoto] = {
         }
      }
 
-    # programmer_hash
+    puts programmer_hash
 end
 
 
