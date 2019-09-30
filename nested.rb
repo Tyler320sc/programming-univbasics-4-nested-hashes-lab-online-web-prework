@@ -69,6 +69,11 @@ def adding_matz
 #    :languages => ["LISP", "C"]
 # }
 
+programmer_hash[:yukihiro_matsumoto] = {
+  :known_for => "Ruby", 
+  :languages => ["LISP", "C"] # May need a comma here?
+} 
+
 	programmer_hash = 
  		{
         :grace_hopper => {
